@@ -164,7 +164,8 @@ class HamzaNaveed extends Developer {
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzanaveed&theme=react-dark&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)
+### 🟩 883 Contributions in the Last Year *(private repos included)*
+![Contributions](./contributions.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzanaveed&show_icons=true&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanaveed&layout=compact&theme=react&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff)
