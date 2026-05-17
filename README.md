@@ -164,11 +164,6 @@ class HamzaNaveed extends Developer {
 
 <div align="center">
 
-### 🟩 883 Contributions in the Last Year *(private repos included)*
-![Contributions](./contributions.svg)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzanaveed&show_icons=true&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanaveed&layout=compact&theme=react&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff)
 
 </div>
 
