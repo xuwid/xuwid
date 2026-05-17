@@ -158,14 +158,8 @@ class HamzaNaveed extends Developer {
 
 ---
 
-## `> contributions --real-talk`
-
-> 💼 **Most of my production work lives in private company repos** — enterprise Flutter apps, AI pipelines, and client builds that can't be open-sourced. The green squares don't tell the full story.
-
-<div align="center">
 
 
-</div>
 
 ---
 
